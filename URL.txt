@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/harishnivasagam/multi-class-skin-condition-image-dataset-msc-6?utm_source : Link dataset
+https://huggingface.co/spaces/goetzel11/graded_chll7 : Link huggingface
+https://drive.google.com/drive/u/0/folders/1QNZYa9i6FHy5S9QoXVKD6rMpjZIJQfQ4 : Link dataset diolah dan model.keras
+
