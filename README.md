@@ -1,15 +1,9 @@
 # Face Skin Condition Classification Using Deep Learning
 
-## Repository Outline
-```
-1. README.md - Penjelasan gambaran umum project
-2. P2G7_Muhammad_Aldzahabi.ipynb - Notebook yang berisi pengolahan data dengan python, pengolahan data dengan metode statistika deskriptif dan inferensial, pembersihan data (dari data kotor menjadi data yang sudah bersih), visualisasi dari pengolahan data
-3. P2G7_Muhammad_Aldzahabi.inf.ipynb - Notebook yang berisi 
-4. Adidas_Sales_Data_Cleaned.csv - Berisi dataset yang sudah dibersihkan
-```
-
 ## Problem Background
-`Sebagai tim Data Analyst marketing, saya ingin menganalisis bagaimana performa penjualan dan profit sepatu Adidas selama tahun 2021, untuk menentukan strategi pemasaran yang lebih efektif di tahun berikutnya. Analisis ini akan membantu dalam memahami produk mana yang paling laku, channel distribusi mana yang paling efisien, serta wilayah mana yang menjadi fokus pasar..`
+`Kesehatan dan estetika kulit wajah merupakan perhatian utama bagi banyak individu, namun identifikasi masalah kulit seringkali bersifat subjektif dan memerlukan konsultasi ahli yang tidak selalu dapat diakses dengan cepat. Kondisi seperti jerawat, bercak hitam (darkspots), kerutan, dan kemerahan dapat muncul akibat berbagai faktor seperti pola hidup, paparan matahari, atau penuaan. Tanpa deteksi dini yang akurat, penanganan yang salah dapat memperburuk kondisi kulit. Saat ini, masyarakat cenderung melakukan diagnosa mandiri yang kurang akurat sebelum membeli produk perawatan. Oleh karena itu, diperlukan sebuah sistem berbasis kecerdasan buatan (Artificial Intelligence) yang mampu mengklasifikasikan kondisi kulit wajah secara otomatis melalui citra digital. Sistem ini diharapkan dapat memberikan deteksi awal yang objektif untuk membantu pengguna memahami kondisi kulit mereka secara lebih spesifik.
+
+Objective.`
 
 ## Project Output
 `Output dari proyek ini adalah sebuah laporan analisis data lengkap dengan visualisasi, csv data yang sudah bersih, dan dashboard https://public.tableau.com/views/PenjualanSepatuAdidasTahun2021diAmerika/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link.`
@@ -35,4 +29,5 @@ scipy untuk melakukan uji hipotesis (t-test).`
 `Link dataset (kaggle): https://www.kaggle.com/datasets/davidmashishi/adidas-shoes-sales?resource=download`
 
 ---
+
 
