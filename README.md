@@ -9,8 +9,8 @@ Proyek ini bertujuan untuk membangun model klasifikasi berbasis Deep Learning ya
 ## Project Output
 `Output dari proyek ini adalah sebuah laporan analisis data lengkap dengan visualisasi, csv data yang sudah bersih, dan dashboard https://public.tableau.com/views/PenjualanSepatuAdidasTahun2021diAmerika/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link.`
 
-## Data
-`Dataset ini diambil dari link berikut: https://www.kaggle.com/datasets/davidmashishi/adidas-shoes-sales?resource=download Terdiri dari 12 kolom dan 9641 baris`
+## Dataset Information
+Dataset ini diambil dari link berikut: (https://www.kaggle.com/datasets/harishnivasagam/multi-class-skin-condition-image-dataset-msc-6?utm_source)
 
 ## Method
 `Analisis ini menggunakan metode statistika deskriptif dan inferensial. Statistika deskriptif digunakan untuk melihat jumlah data numerik dengan menggunakan SUM dan groupby. Agregasi data dan visualisasi (grafik garis, batang, dan heatmap) digunakan untuk mengidentifikasi tren dan perbandingan jumlah atau rata-rata penjualan. Selain itu, uji hipotesis korelasi diterapkan untuk membuktikan signifikansi hubungan antara harga per unit dan total unit yang terjual, dan terakhir menggunakan heatmap sebagai acuan untuk melihat koefisien korelasi, dan menghasilkan yang terkuat adalah total sales sangat berkorelasi dengan total profit, yang artinya, semakin tinggi total penjualan, maka semakin tinggi juga profitnya. Dataload dan data cleaning juga dilakukan sebelum data diolah`
@@ -30,6 +30,7 @@ scipy untuk melakukan uji hipotesis (t-test).`
 `Link dataset (kaggle): https://www.kaggle.com/datasets/davidmashishi/adidas-shoes-sales?resource=download`
 
 ---
+
 
 
 
