@@ -1,7 +1,7 @@
 # Face Skin Condition Classification Using Deep Learning
 
 ## Problem Background
-`Kesehatan dan estetika kulit wajah merupakan perhatian utama bagi banyak individu, namun identifikasi masalah kulit seringkali bersifat subjektif dan memerlukan konsultasi ahli yang tidak selalu dapat diakses dengan cepat. Kondisi seperti jerawat, bercak hitam (darkspots), kerutan, dan kemerahan dapat muncul akibat berbagai faktor seperti pola hidup, paparan matahari, atau penuaan. Tanpa deteksi dini yang akurat, penanganan yang salah dapat memperburuk kondisi kulit. Saat ini, masyarakat cenderung melakukan diagnosa mandiri yang kurang akurat sebelum membeli produk perawatan. Oleh karena itu, diperlukan sebuah sistem berbasis kecerdasan buatan (Artificial Intelligence) yang mampu mengklasifikasikan kondisi kulit wajah secara otomatis melalui citra digital. Sistem ini diharapkan dapat memberikan deteksi awal yang objektif untuk membantu pengguna memahami kondisi kulit mereka secara lebih spesifik.
+`Kesehatan dan estetika kulit wajah merupakan perhatian utama bagi banyak individu, namun identifikasi masalah kulit seringkali bersifat subjektif dan memerlukan konsultasi ahli yang tidak selalu dapat diakses dengan cepat. Kondisi seperti jerawat, bercak hitam (darkspots), kerutan, dan kemerahan dapat muncul akibat berbagai faktor seperti pola hidup, paparan matahari, atau penuaan. Tanpa deteksi dini yang akurat, penanganan yang salah dapat memperburuk kondisi kulit. Saat ini, masyarakat cenderung melakukan diagnosa mandiri yang kurang akurat sebelum membeli produk perawatan. Oleh karena itu, diperlukan sebuah sistem berbasis kecerdasan buatan (Artificial Intelligence) yang mampu mengklasifikasikan kondisi kulit wajah secara otomatis melalui citra digital. Sistem ini diharapkan dapat memberikan deteksi awal yang objektif untuk membantu pengguna memahami kondisi kulit mereka secara lebih spesifik.`
 
 Objective.`
 
@@ -29,5 +29,6 @@ scipy untuk melakukan uji hipotesis (t-test).`
 `Link dataset (kaggle): https://www.kaggle.com/datasets/davidmashishi/adidas-shoes-sales?resource=download`
 
 ---
+
 
 
