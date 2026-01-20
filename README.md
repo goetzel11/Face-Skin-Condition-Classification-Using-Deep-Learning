@@ -3,7 +3,8 @@
 ## Problem Background
 Kesehatan dan estetika kulit wajah merupakan perhatian utama bagi banyak individu, namun identifikasi masalah kulit seringkali bersifat subjektif dan memerlukan konsultasi ahli yang tidak selalu dapat diakses dengan cepat. Kondisi seperti jerawat, bercak hitam (darkspots), kerutan, dan kemerahan dapat muncul akibat berbagai faktor seperti pola hidup, paparan matahari, atau penuaan. Tanpa deteksi dini yang akurat, penanganan yang salah dapat memperburuk kondisi kulit. Saat ini, masyarakat cenderung melakukan diagnosa mandiri yang kurang akurat sebelum membeli produk perawatan. Oleh karena itu, diperlukan sebuah sistem berbasis kecerdasan buatan (Artificial Intelligence) yang mampu mengklasifikasikan kondisi kulit wajah secara otomatis melalui citra digital. Sistem ini diharapkan dapat memberikan deteksi awal yang objektif untuk membantu pengguna memahami kondisi kulit mereka secara lebih spesifik.
 
-Objective.`
+## Project Objective
+Proyek ini bertujuan untuk membangun model klasifikasi berbasis Deep Learning yang mampu mengidentifikasi 5 kondisi kulit wajah, yaitu: Darkspot, Jerawatan, Kemerahan, Kerutan, dan Normal. Model dikembangkan untuk memberikan hasil prediksi yang cepat dan akurat berdasarkan input gambar wajah. Dengan adanya sistem ini, diharapkan pengguna dapat melakukan pemantauan kondisi kulit secara mandiri, yang selanjutnya dapat digunakan sebagai referensi awal dalam memilih produk perawatan kulit yang tepat atau memutuskan kapan harus melakukan konsultasi medis profesional.
 
 ## Project Output
 `Output dari proyek ini adalah sebuah laporan analisis data lengkap dengan visualisasi, csv data yang sudah bersih, dan dashboard https://public.tableau.com/views/PenjualanSepatuAdidasTahun2021diAmerika/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link.`
@@ -29,6 +30,7 @@ scipy untuk melakukan uji hipotesis (t-test).`
 `Link dataset (kaggle): https://www.kaggle.com/datasets/davidmashishi/adidas-shoes-sales?resource=download`
 
 ---
+
 
 
 
